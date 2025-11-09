@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGbn2xeQJpHeg/profile-displaybackgroundimage-shrink_350_1400/B4DZpn_Ul6KQAY-/0/1762681244881?e=1764201600&v=beta&t=sWy3DyX2SWCu9jBKsBqCCIzjXf0My3FcGcFqWEtnZM4"
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQGbn2xeQJpHeg/profile-displaybackgroundimage-shrink_350_1400/B4DZpn_Ul6KQAY-/0/1762681244881?e=1764201600&v=beta&t=sWy3DyX2SWCu9jBKsBqCCIzjXf0My3FcGcFqWEtnZM4">
 
 <h3 align="center">Full-Stack Web Designer Developer & WordPress Expert | Responsive Website Expert | Front-End Developer.</h3>
 
