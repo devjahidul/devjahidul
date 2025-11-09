@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jahidul Islam</h1>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQEZHf935lzqGg/profile-displaybackgroundimage-shrink_350_1400/B4DZpBQ4gUGwAY-/0/1762031537411?e=1764201600&v=beta&t=o78wEwHr7R9D3w3LrcBpwx9UdtKnZds3im2O2bQsSbc"
+
 <h3 align="center">Full-Stack Web Designer Developer & WordPress Expert | Responsive Website Expert | Front-End Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjahidul&label=Profile%20views&color=0e75b6&style=flat" alt="devjahidul" /> </p>
