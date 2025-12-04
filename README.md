@@ -1,4 +1,4 @@
-<img src="[https://i.ibb.co.com/nq0gRTDR/linkedin.jpg]">
+<img src="https://i.ibb.co.com/nq0gRTDR/linkedin.jpg">
 
 <h3 align="center">Full-Stack Web Designer Developer & WordPress Expert | Responsive Website Expert | Front-End Developer.</h3>
 
