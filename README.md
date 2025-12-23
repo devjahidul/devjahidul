@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/nq0gRTDR/linkedin.jpg">
+<img src="https://i.ibb.co.com/5hyw8L0S/Md-Jahidul-Islam.jpg">
 
 <h3 align="center">Full-Stack Web Designer Developer & WordPress Expert | Responsive Website Expert | Front-End Developer.</h3>
 
